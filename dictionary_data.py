@@ -3,6 +3,7 @@ Dictionary data for Munim's Dictionary.
 English words are keys and Bengali meanings are values.
 This file contains exactly 200 entries.
 """
+# English word -> Bengali meaning. Exactly 200 entries, displayed alphabetically.
 
 DICTIONARY = {
     "Ability": "ক্ষমতা",
