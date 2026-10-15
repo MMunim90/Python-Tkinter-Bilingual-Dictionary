@@ -4,7 +4,7 @@ A desktop English–Bengali dictionary built with Python and Tkinter. Search Eng
 
 ## Features
 
-- **200 built-in dictionary entries** with English words and Bengali meanings
+- *300 built-in dictionary entries** with English words and Bengali meanings
 - **Autocomplete search** with alphabetically sorted suggestions
 - **Case-insensitive lookup**
 - **English pronunciation** using `pyttsx3` and the Windows SAPI5 speech engine
@@ -23,7 +23,7 @@ munim-dictionary/
 ```
 
 - `Python Tkinter Bilingual Dictionary.py`: Main application, GUI, search, autocomplete, and voice controls.
-- `dictionary_data.py`: Built-in dictionary data containing 200 English words and their Bengali meanings.
+- `dictionary_data.py`: Built-in dictionary data containing 300 English words and their Bengali meanings.
 
 Keep both Python files in the same directory so the application can import the dictionary data.
 
