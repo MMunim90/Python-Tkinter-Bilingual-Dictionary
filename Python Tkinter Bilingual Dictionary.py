@@ -14,6 +14,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import tempfile
 import os
+from dictionary_data import DICTIONARY
 
 # English word -> Bengali meaning. Exactly 200 entries, displayed alphabetically.
 DICTIONARY = {
